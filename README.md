@@ -69,9 +69,6 @@ To improve the precision and recall of the extracted text, the following preproc
 
 - **Removing Unwanted Strings**: Use a predefined list of unwanted strings to filter out irrelevant content.
 - **Whitespace Removal**: Trim unnecessary whitespace from the extracted text.
-- **Lowercasing**: Convert text to lowercase to ensure uniformity.
-- **Tokenization**: Split the text into tokens for further analysis.
-- **Stemming/Lemmatization**: Reduce words to their base forms for consistency.
 
 ## Contributing
 
