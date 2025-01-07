@@ -22,7 +22,7 @@ The main goal of this project is to extract meaningful text from PDF files using
 
 The repository is organized as follows:
 
-OCR-PDF-Text-Extraction/
+OCR-PDF-Text-Extraction/                                                                                                                                                                         
 │
 ├── data/                  # Contains input and output data
 │   ├── input/             # PDF files for OCR processing
