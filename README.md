@@ -31,7 +31,7 @@ OCR-PDF-Text-Extraction/
 │                                                                                                                                                                                                
 ├── src/                                                                                                                                                           
 │   ├── pdf_extractor.py                                                                                                                                    
-│   └── text_cleaner.py                                                                                                                                     
+│   └── regex_extractor.py                                                                                                                                     
 │                                                                                                                                                                                                
 ├── notebooks/                                                                                                                                                  
 │   └── ocr_analysis.ipynb                                                                                                                                       
@@ -60,7 +60,7 @@ python src/pdf_extractor.py
 3. The extracted text will be saved in the `data/output/` directory.
 4. Use the text cleaner script to refine the extracted text:
 
-python src/text_cleaner.py
+python src/regex_extractor.py
 
 
 ## Preprocessing Techniques
