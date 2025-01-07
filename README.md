@@ -24,20 +24,20 @@ The repository is organized as follows:
 
 OCR-PDF-Text-Extraction/                                                                                                                                                                         
 │
-├── data/                  # Contains input and output data                                                                                                                                      
-│   ├── input/             # PDF files for OCR processing                                                                                                                                        
-│   ├── output/            # Text files with extracted content                                                                                                                                   
-│   └── regex/             # Contains regex patterns and unwanted strings                                                                                                                        
+├── data/                                                                                                                                                  
+│   ├── input/                                                                                                                                                 
+│   ├── output/                                                                                                                                             
+│   └── regex/                                                                                                                                 
 │                                                                                                                                                                                                
-├── src/                   # Source code for the project                                                                                                                                         
-│   ├── pdf_extractor.py   # Script to extract text from PDFs                                                                                                                                    
-│   └── text_cleaner.py    # Script to clean and process text                                                                                                                                    
+├── src/                                                                                                                                                           
+│   ├── pdf_extractor.py                                                                                                                                    
+│   └── text_cleaner.py                                                                                                                                     
 │                                                                                                                                                                                                
-├── notebooks/             # Jupyter Notebooks for analysis                                                                                                                                      
-│   └── ocr_analysis.ipynb  # Analysis and visualization                                                                                                                                         
+├── notebooks/                                                                                                                                                  
+│   └── ocr_analysis.ipynb                                                                                                                                       
 │                                                                                                                                                                                                
-├── requirements.txt       # List of required packages                                                                                                                                           
-└── README.md              # Project documentation                                                                                                                                               
+├── requirements.txt                                                                                                                                               
+└── README.md                                                                                                                                                         
 
 
 ## Installation
