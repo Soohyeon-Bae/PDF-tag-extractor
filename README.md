@@ -1,4 +1,4 @@
-# OCR-PDF-Text-Extraction
+# OCR-PDF-Tag-Extraction
 
 This repository provides a framework for extracting text from PDF documents using Optical Character Recognition (OCR) and processing the extracted text with regular expressions to filter out unwanted information.
 
