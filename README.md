@@ -3,9 +3,6 @@
 This repository provides a framework for extracting text from PDF documents using Optical Character Recognition (OCR) and processing the extracted text with regular expressions to filter out unwanted information.
 
 
-updated (25.01.14) - Finding a way to improve accuracy by applying changes to the PDF processing library! By specifying the scanned area of the PDF, it’s possible to extract text in blocks from the desired section.
-
-
 ## Table of Contents
 - [Overview](#overview)
 - [Data Structure](#data-structure)
@@ -77,6 +74,10 @@ To improve the precision and recall of the extracted text, the following preproc
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
+
+updated (25.01.14) - Finding a way to improve accuracy by applying changes to the PDF processing library! By specifying the scanned area of the PDF, it’s possible to extract text in blocks from the desired section.
+
 
 ## License
 
