@@ -1,6 +1,6 @@
-# OCR-PDF-Tag-Extraction
+# PDF-Tag-Extraction
 
-This repository provides a framework for extracting text from PDF documents using Optical Character Recognition (OCR) and processing the extracted text with regular expressions to filter out unwanted information.
+This repository provides a framework for extracting text from PDF documents and processing the extracted text with regular expressions to filter out unwanted information.
 
 
 ## Table of Contents
@@ -14,7 +14,7 @@ This repository provides a framework for extracting text from PDF documents usin
 
 ## Overview
 
-The main goal of this project is to extract meaningful text from PDF files using OCR methods, and to refine that text using regular expressions. The process includes:
+The main goal of this project is to extract meaningful text from PDF files using OCR methods and to refine that text using regular expressions. The process includes:
 
 1. **Text Extraction**: Using OCR libraries to extract text from PDF files.
 2. **Text Processing**: Applying regular expressions to filter the extracted text, improving precision and recall.
@@ -23,7 +23,7 @@ The main goal of this project is to extract meaningful text from PDF files using
 
 The repository is organized as follows:
 
-OCR-PDF-Text-Extraction/                                                                                                                                                                         
+PDF-Text-Extraction/                                                                                                                                                                         
 │
 ├── data/                                                                                                                                                  
 │   ├── input/                                                                                                                                                 
@@ -35,7 +35,7 @@ OCR-PDF-Text-Extraction/
 │   └── regex_extractor.py                                                                                                                                     
 │                                                                                                                                                                                                
 ├── notebooks/                                                                                                                                                  
-│   └── ocr_analysis.ipynb                                                                                                                                       
+│   └── analysis.ipynb                                                                                                                                       
 │                                                                                                                                                                                                
 ├── requirements.txt                                                                                                                                               
 └── README.md                                                                                                                                                         
@@ -45,8 +45,8 @@ OCR-PDF-Text-Extraction/
 
 To set up the project, clone the repository and install the required packages:
 
-git clone https://github.com/yourusername/OCR-PDF-Text-Extraction.git
-cd OCR-PDF-Text-Extraction
+git clone https://github.com/yourusername/PDF-Text-Extraction.git
+cd PDF-Text-Extraction
 pip install -r requirements.txt
 
 
