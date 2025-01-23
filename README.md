@@ -35,7 +35,7 @@ PDF-Text-Extraction/
 │   └── regex_extractor.py                                                                                                                                     
 │                                                                                                                                                                                                
 ├── notebooks/                                                                                                                                                  
-│   └── analysis.ipynb                                                                                                                                       
+│   └── data_analysis_and_visualization.ipynb                                                                                                                                       
 │                                                                                                                                                                                                
 ├── requirements.txt                                                                                                                                               
 └── README.md                                                                                                                                                         
