@@ -25,16 +25,16 @@ The repository is organized as follows:
 
 PDF-Text-Extraction/                                                                                                                                                                         
 │
-├── data/                                                                                                                                                  
+├── 📂 data/                                                                                                                                                  
 │   ├── input/                                                                                                                                                 
 │   ├── output/                                                                                                                                             
 │   └── regex/                                                                                                                                 
 │                                                                                                                                                                                                
-├── src/                                                                                                                                                           
+├── 📂 src/                                                                                                                                                           
 │   ├── pdf_extractor.py                                                                                                                                    
 │   └── regex_extractor.py                                                                                                                                     
 │                                                                                                                                                                                                
-├── notebooks/                                                                                                                                                  
+├── 📂 notebooks/                                                                                                                                                  
 │   └── data_analysis_and_visualization.ipynb                                                                                                                                       
 │                                                                                                                                                                                                
 ├── requirements.txt                                                                                                                                               
