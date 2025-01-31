@@ -2,16 +2,6 @@
 
 This repository provides a framework for extracting text from PDF documents and processing the extracted text with regular expressions to filter out unwanted information.
 
-
-## Table of Contents
-- [Overview](#overview)
-- [Data Structure](#data-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Preprocessing Techniques](#preprocessing-techniques)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 
 The main goal of this project is to extract meaningful text from PDF files using OCR methods and to refine that text using regular expressions. The process includes:
@@ -19,7 +9,7 @@ The main goal of this project is to extract meaningful text from PDF files using
 1. **Text Extraction**: Using OCR libraries to extract text from PDF files.
 2. **Text Processing**: Applying regular expressions to filter the extracted text, improving precision and recall.
 
-## Data Structure
+## Project Structure
 
 The repository is organized as follows:
 
@@ -82,4 +72,4 @@ updated (25.01.14) - Finding a way to improve accuracy by applying changes to th
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
-```
+
