@@ -1,4 +1,4 @@
-# PDF-tag-extractor
+# PDF Text Extraction 
 
 This repository provides a framework for extracting text from PDF documents and processing the extracted text with regular expressions to filter out unwanted information.
 
