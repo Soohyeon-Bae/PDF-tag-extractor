@@ -2,7 +2,7 @@
 
 This repository provides a framework for extracting text from PDF documents and processing the extracted text with regular expressions to filter out unwanted information.
 
-## Overview
+## Overview 
 
 The main goal of this project is to extract meaningful text from PDF files using OCR methods and to refine that text using regular expressions. The process includes:
 
