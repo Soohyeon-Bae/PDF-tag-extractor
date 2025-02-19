@@ -14,7 +14,7 @@ def main():
     # Provide options to the user
     print("Select the step to execute:")
     print("1. Extract text from PDF")
-    print("2. Extract tags from TXT file")
+    print("2. Find tags(regex) from TXT file")
     choice = input("Choose (1, or 2): ")
 
     if choice == '1':
