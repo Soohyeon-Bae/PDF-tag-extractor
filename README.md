@@ -34,25 +34,25 @@ PDF-tag-extractor/
 ## Installation
 
 To set up the project, clone the repository and install the required packages:
-
+````
 git clone https://github.com/Soohyeon-Bae/PDF-Text-Extraction.git
 cd PDF-Text-Extraction
 pip install -r requirements.txt
-
+````
 
 ## Usage
 
 1. Place your PDF files in the `data/input/` directory.
 2. Run the text extraction script:
-
+````
 python src/pdf_extractor.py
-
+````
 
 3. The extracted text will be saved in the `data/output/` directory.
 4. Use the text cleaner script to refine the extracted text:
-
+````
 python src/regex_extractor.py
-
+````
 
 ## Preprocessing Techniques
 
